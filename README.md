@@ -6,16 +6,10 @@ The Object Detection and Tracking App combines YOLOv8 with Streamlit, enabling r
 
 ## Image detection and segmentation Demo
 
-<img width="1506" alt="1" src="https://github.com/RoeeHashai/Object-Detection-Tracking-App/assets/114341594/b09129c8-f194-40cd-ab8e-32baefad4164">
-
-<img width="1502" alt="2" src="https://github.com/RoeeHashai/Object-Detection-Tracking-App/assets/114341594/cc094db3-8950-4110-92dd-96125ac2d0b4">
-
+<img width="1512" alt="Screenshot 2023-11-15 at 19 41 39" src="https://github.com/RoeeHashai/Object-Detection-WebApp/assets/114341594/c9586560-f8ac-4807-aec7-fed6fd1d5287">
 
 ## Video detection, segmentation and tracking Demo
 
-![8 (3)](https://github.com/RoeeHashai/Object-Detection-Tracking-App/assets/114341594/4ff9b3cb-2312-411e-849d-c49f8a6a3e61)
-
-![9](https://github.com/RoeeHashai/Object-Detection-Tracking-App/assets/114341594/e2b5c1cf-5d87-4d65-805d-164e6a6d4f16)
 
 
 ## Requirements
