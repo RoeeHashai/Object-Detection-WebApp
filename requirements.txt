@@ -6,4 +6,3 @@ streamlit
 pafy
 pytube
 opencv-python
-numpy
